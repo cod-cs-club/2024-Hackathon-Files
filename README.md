@@ -25,4 +25,14 @@ bot.login('BOT_TOKEN_HERE')
 Step 7. Run the command `node index.js` to run your code and start the bot!
 
 # Python
+Step 1. Download and install [Python](https://www.python.org/downloads/).
+
+Step 2. Create a new folder, and open a terminal window (Command prompt, Powershell, etc) in the new folder.
+> TIP: Pressing ``CTRL +  ` `` in Visual Studio Code will open the terminal in the currently open folder.
+
+Step 3: Type `pip install discord.py` into the terminal to install Discord.py
+
+Step 4: Create a file called `{your_file_name}.py`, and paste `Python-Template` into it
+
+Step 5: Replace the bot token with the bot token provided to your team, and update `channel_id` to actually be the ID of the channel you are using in discord
 ...
