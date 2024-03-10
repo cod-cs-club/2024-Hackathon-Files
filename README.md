@@ -9,7 +9,7 @@ Below are instructions for initializing a simple Discord Bot project in both lan
 Step 1. Download and install [Node.js](https://nodejs.org/en).
 
 Step 2. Create a new folder, and open a terminal window (Command prompt, Powershell, etc) in the new folder.
-> TIP: Pressing CTRL + ` in Visual Studio Code will open the terminal in the currently open folder.
+> TIP: Pressing CTRL + `` ` `` in Visual Studio Code will open the terminal in the currently open folder.
 
 Step 3. Initialize a new Node.js project using the `npm init` command. Answer the prompts accordingly.
 
