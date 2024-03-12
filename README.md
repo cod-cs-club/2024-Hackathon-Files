@@ -15,7 +15,7 @@ Step 3. Initialize a new Node.js project using the `npm init` command. Answer th
 
 Step 4. Run the command `npm install discord.js` to install the Discord.js library.
 
-Step 5. Create a `index.js` file, and paste the code from the `NodeJS-Template.js` file in this repository into it.
+Step 5. Create a `index.js` file, and paste the code from the `NodeJS-Template.js` file from this repository into it.
 
 Step 6. On the last line of the `index.js` file, replace "BOT_TOKEN_HERE" text with the actual bot token provided to your team.
 ```js
@@ -32,7 +32,11 @@ Step 2. Create a new folder, and open a terminal window (Command prompt, Powersh
 
 Step 3: Type `pip install discord.py` into the terminal to install Discord.py
 
-Step 4: Create a file called `{your_file_name}.py`, and paste `Python-Template` into it
+Step 4: Create a file called `bot.py`, and paste the code from the `Python-Template.py` file from this repository into it.
 
-Step 5: Replace the bot token with the bot token provided to your team, and update `channel_id` to actually be the ID of the channel you are using in discord
-...
+Step 5. On the last line of the `bot.py` file, replace "BOT_TOKEN_HERE" text with the actual bot token provided to your team.
+```js
+client.run('BOT_TOKEN_HERE')
+```
+
+Step 6. Run the command `py bot.py` to run your code and start the bot!
