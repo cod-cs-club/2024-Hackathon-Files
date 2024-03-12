@@ -2,6 +2,8 @@
 
 See the `NodeJS-Template.js` or `Python-Template.py` file to get a simple bot template.
 
+Both templates show how to initialize a Discord bot with the most commonly needed intentions, and how to listen to events like 'on ready' and 'on message'.
+
 Below are instructions for initializing a simple Discord Bot project in both languages.
 
 # Node.js
@@ -40,3 +42,7 @@ client.run('BOT_TOKEN_HERE')
 ```
 
 Step 6. Run the command `py bot.py` to run your code and start the bot!
+
+# Other Links
+- [Discord.js documentation]https://discord.js.org/
+- [Discord.py documentation](https://discordpy.readthedocs.io/en/stable/)
