@@ -44,5 +44,5 @@ client.run('BOT_TOKEN_HERE')
 Step 6. Run the command `py bot.py` to run your code and start the bot!
 
 # Other Links
-- [Discord.js documentation]https://discord.js.org/
+- [Discord.js documentation](https://discord.js.org/)
 - [Discord.py documentation](https://discordpy.readthedocs.io/en/stable/)
