@@ -32,7 +32,7 @@ Step 1. Download and install [Python](https://www.python.org/downloads/).
 Step 2. Create a new folder, and open a terminal window (Command prompt, Powershell, etc) in the new folder.
 > TIP: Pressing ``CTRL +  ` `` in Visual Studio Code will open the terminal in the currently open folder.
 
-Step 3: Type `pip install discord.py` into the terminal to install Discord.py
+Step 3: Type `pip install discord.py` into the terminal to install Discord.py. If you are getting errors, try `pip install discord` on your cmd (instead of your IDE).
 
 Step 4: Create a file called `bot.py`, and paste the code from the `Python-Template.py` file from this repository into it.
 
