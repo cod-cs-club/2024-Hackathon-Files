@@ -23,9 +23,12 @@ async def on_message(message):
     if message.author == client.user:
         return
     
-    # If message starts with 'hello', bot will respond
+    # If message starts with 'hello', bot will respond:
     if message.content.startswith('hello'):
         await message.channel.send(f'Hello {message.author.mention}! I am a basic Discord bot.')
+    # Any other message, bot will respond:
+    else:
+        await message.channel.send(f'Lets get coding!')
 
 # Run the bot with your Discord bot token
 client.run('BOT_TOKEN_HERE')
